@@ -1,2 +1,3 @@
 # Diwali-Sales-Analysis-using-python
-In this analysis on diwali sales data using python. I have performed EDA (Exploratory Data Analysis) on the dataset to identify the trends and have also suggested on ways the business can be improved. 
+For the analysis of the diwali sales dataset, I have leveraged data cleaning, manipulation, and EDA using pandas, matplotlib, and seaborn to identify the key customer segments.
+I have identified key customer demographics (state, occupation, gender, age, etc.) for targeted customer experience strategies.
